@@ -3,7 +3,7 @@
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **SPTech**  
 💻 Interessado em **Desenvolvimento de Sistemas**  
 
-💻 Apaixonado por programação, sistemas computacionais e soluções inteligentes.  
+🌐 Apaixonado por programação, sistemas computacionais e soluções inteligentes.  
 🚀 Sempre buscando aprender novas tecnologias e evoluir na área de T.I.  
 
 ### 💡 Tecnologias que estou estudando na faculdade:
