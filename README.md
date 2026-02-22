@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 E aí, eu sou o **Max Maya**
 
-<!--
-**max-pereira7/max-pereira7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **SPTech**  
+💻 Interessado em **Desenvolvimento de Sistemas**
 
-Here are some ideas to get you started:
+💻 Apaixonado por programação, sistemas computacionais e soluções inteligentes.
+🚀 Sempre buscando aprender novas tecnologias e evoluir na área de T.I
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Tecnologias que estou estudando na faculdade:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mysql,vscode,git,github,linux)](https://skillicons.dev)
+
+### 🔎Tenho interesse em aprender mais sobre:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws)](https://skillicons.dev)
+
+### 🤝 Conecte-se comigo
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/max-maya-pereira/)
